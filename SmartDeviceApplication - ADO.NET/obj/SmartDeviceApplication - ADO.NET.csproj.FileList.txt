@@ -1,0 +1,13 @@
+bin\Debug\SmartDeviceApplication - ADO.NET.exe
+bin\Debug\SmartDeviceApplication - ADO.NET.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SmartDeviceApplication___ADO.NET.Properties.Resources.resources
+obj\Debug\SmartDeviceApplication - ADO.NET.csproj.GenerateResource.Cache
+obj\Debug\SmartDeviceApplication - ADO.NET.exe
+obj\Debug\SmartDeviceApplication - ADO.NET.pdb
+bin\Debug\mscorlib.dll
+bin\Debug\System.Data.dll
+bin\Debug\System.dll
+bin\Debug\System.Drawing.dll
+bin\Debug\System.Windows.Forms.dll
+bin\Debug\System.Xml.dll
